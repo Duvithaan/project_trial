@@ -1,2 +1,3 @@
 # project_trial
-this is first project 
+this is my first project.
+
